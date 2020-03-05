@@ -9,7 +9,6 @@ import java.util.Queue;
  * @create 2020-03-04 9:45 上午
  */
 public class Training3 {
-
     public static void main(String[] args) {
         int[][] grid1 = new int[][]{new int[]{2, 1, 1}, new int[]{1, 1, 0}, new int[]{0, 1, 1}};
         int[][] grid2 = new int[][]{new int[]{1, 2}};
