@@ -1,7 +1,4 @@
-package com.github.longylg;
-
-import javax.swing.tree.DefaultMutableTreeNode;
-import javax.swing.tree.TreeNode;
+package com.github.longylg.first;
 
 /**
  * @author liyulong

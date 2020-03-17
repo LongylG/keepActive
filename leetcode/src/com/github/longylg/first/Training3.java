@@ -1,4 +1,4 @@
-package com.github.longylg;
+package com.github.longylg.first;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

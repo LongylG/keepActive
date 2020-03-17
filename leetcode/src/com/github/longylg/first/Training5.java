@@ -1,8 +1,4 @@
-package com.github.longylg;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
+package com.github.longylg.first;
 
 /**
  * @author liyulong

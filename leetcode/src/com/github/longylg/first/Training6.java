@@ -1,7 +1,6 @@
-package com.github.longylg;
+package com.github.longylg.first;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
